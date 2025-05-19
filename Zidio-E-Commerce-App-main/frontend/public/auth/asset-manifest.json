@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29ad09a2.css",
+    "main.js": "/static/js/main.98baff2b.js",
+    "static/media/zidio-logo.png": "/static/media/zidio-logo.c9b03495002ea149076d.png",
+    "static/media/avatar6.png": "/static/media/avatar6.956fb0622d384a7eddd3.png",
+    "static/media/avatar4.png": "/static/media/avatar4.365bced70eb19ed6a523.png",
+    "static/media/avatar2.png": "/static/media/avatar2.3532c32ba2cf8ee95d04.png",
+    "static/media/avatar9.png": "/static/media/avatar9.c8789d9bd4d7e70bda2e.png",
+    "static/media/avatar7.png": "/static/media/avatar7.2ed01c238fda4b05b275.png",
+    "static/media/avatar1.png": "/static/media/avatar1.958e436e6a66d999d358.png",
+    "static/media/avatar5.png": "/static/media/avatar5.4678e824f6d0c296ac95.png",
+    "static/media/avatar3.png": "/static/media/avatar3.65f9a86a9310643c2427.png",
+    "static/media/avatar8.png": "/static/media/avatar8.ef9655a6172caaeb644b.png",
+    "static/media/avatar10.png": "/static/media/avatar10.3f0e44ba6ab22251dd87.png",
+    "index.html": "/index.html",
+    "main.29ad09a2.css.map": "/static/css/main.29ad09a2.css.map",
+    "main.98baff2b.js.map": "/static/js/main.98baff2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ad09a2.css",
+    "static/js/main.98baff2b.js"
+  ]
+}
