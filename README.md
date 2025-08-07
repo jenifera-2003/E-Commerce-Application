@@ -70,9 +70,10 @@
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here showing home page, product listing, cart, checkout, etc.)*
+> ![s1](https://github.com/user-attachments/assets/e1d1d8fe-ce06-44ff-9552-b773b87e6333)
+![s3](https://github.com/user-attachments/assets/6db3eb41-b56a-40b9-8c72-1352b37d84c1)
+![s2](https://github.com/user-attachments/assets/6376f869-bef7-4e84-a8b7-29b4675555fa)
 
----
 
-## 📁 Folder Structure
+
 
